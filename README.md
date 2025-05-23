@@ -6,40 +6,46 @@
 
 ---
 
-## 💻 About Me  
+## 🧑‍💻 About Me  
 
-- 👨‍🎓 **CS Undergrad** | **Code Magician 🪄**  
-- 🔥 Learning **C# .NET for Android & Game Development** and **Java OOP**  
-- ⚙️ Love building **console apps, backend systems, AI bots, and interactive tools**  
+- 🎓 **Computer Science Undergrad** | **Code Magician 🪄**  
+- 🔥 Currently learning **C# .NET for Android/Game Development** & **Java OOP**  
+- 🛠️ Building **console apps, backend systems, AI bots, and productivity tools**  
 - 🎮 Game mechanics, simulations, and creative coding fuel my passion  
 - 🌍 Based in **Hyderabad, Pakistan**
 
 ---
 
-## 📫 Connect with Me  
+## 📬 Connect with Me  
 
-[![Gmail Badge](https://img.shields.io/badge/-syedkazmi2872@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:syedkazmi2872@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-SyedKazimAli-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-kazim-ali/)](https://www.linkedin.com/in/syed-kazim-ali/)
-[![Instagram Badge](https://img.shields.io/badge/-Syed_HITMSCoder-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Syed_HITMSCoder/)
-
----
-
-## 🚀 Languages & Tools  
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <a href="mailto:syedkazmi2872@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/syed-kazim-ali/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/Syed_HITMSCoder/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
 ---
 
+## 🚀 Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+
+---
 
 ## 🎉 Fun Fact  
 
-**I love turning creative ideas into functional, problem-solving, and interactive applications 🚀✨**
+> **I love turning creative ideas into functional, problem-solving, and interactive applications 🚀✨**
 
 ---
 
